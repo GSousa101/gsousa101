@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at [42|Rio](https://42.rio/)
 
-- 🌱 I’m currently learning **Raycasting and Oriented project programming.**
+- 🌱 I’m currently learning **Docker and fundamentals of machine learning.**
 
 - 📝 Sometimes write articles on [https://medium.com/@gfsousa42](https://medium.com/@gfsousa42)
 
