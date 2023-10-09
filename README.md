@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gustavo Sousa</h1>
 <h3 align="center">A passionate backend developer from Rio de Janeiro</h3>
 
-- 🔭 I’m currently studying at [42|Rio](https://42.rio/)
+- 🔭 I’m currently studying at university [42|Rio](https://42.rio/)
 
-- 🌱 I’m currently learning **Docker and fundamentals of machine learning.**
+- 🌱 I’m currently learning **fundamentals of web and Data manipulation(Pandas).**
 
-- 📝 Sometimes write articles on [https://medium.com/@gfsousa42](https://medium.com/@gfsousa42)
+- 📝 Sometimes write articles on [https://medium.com/@gustavofsousa](https://medium.com/@gustavofsousa)
 
-- 💬 Ask me about **Machine Learning, poetry and literature.**
+- 💬 Ask me about **Data Science, philosophy and literature.**
 
 - 📫 How to reach me **gfsousa42@gmail.com**
 
