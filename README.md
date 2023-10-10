@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at university [42|Rio](https://42.rio/)
 
-- 🌱 I’m currently learning **fundamentals of web and Data Analysis and visualization.**
+- 🌱 I’m currently learning **fundamentals of Web Development and Data Analysis/visualization.**
 
 - 📝 Sometimes write articles on [https://medium.com/@gustavofsousa](https://medium.com/@gustavofsousa)
 
